@@ -43,7 +43,7 @@
         <dependency>
             <groupId>flickrImageModul</groupId>
             <artifactId>flickrImageModul</artifactId>
-            <version>1.0</version>
+            <version>LATEST</version>
             <type>jar</type>
         </dependency>
 
